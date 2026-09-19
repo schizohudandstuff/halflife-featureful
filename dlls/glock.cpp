@@ -71,8 +71,8 @@ WeaponParameters CGlock::GetDefaultParameters() const
 {
 	WeaponParameters params;
 
-	params.initialAmmoAmount = 17;
-	params.maxClip = 17;
+	params.initialAmmoAmount = 7;
+	params.maxClip = 7;
 	params.ammoName = "9mm";
 
 	params.worldModel = "models/w_9mmhandgun.mdl";
